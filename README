@@ -1,6 +1,9 @@
 Dumps decrypted iPhone Applications to a file - better solution than those GDB scripts for non working GDB versions
 (C) Copyright 2011 Stefan Esser
 
+NOTICE:
+Now work with Xcode 5.
+
 
 Compile:
 
